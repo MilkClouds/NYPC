@@ -1,0 +1,1 @@
+print("로그인","성공" if input()=='scsc0826' and input()=='pwpw1234' else '실패')
